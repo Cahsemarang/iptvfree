@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="anb channel" tvg-logo="https://i.ibb.co/QdTk4HB/anb.png" group-title="LIVE KAJIAN",anb channel
+#https://yaumun.000webhostapp.com/desuntv/streaming/1/offline.mp4
+https://ppmk.my.id/tes/yt.php?id=tn2LvMdmcxY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rumaysho TV" tvg-logo="https://i.ibb.co/44LhQCW/Rumaysho.png" group-title="LIVE KAJIAN",Rumaysho TV
+https://yaumun.000webhostapp.com/desuntv/streaming/1/offline.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syafiq Riza Basalamah Official" tvg-logo="https://i.ibb.co/4KYJXT5/SRB.png" group-title="LIVE KAJIAN",Syafiq Riza Basalamah Official
+https://yaumun.000webhostapp.com/desuntv/streaming/1/offline.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Robbani TV" tvg-logo="https://i.ibb.co/Q8pbNCM/Robbani.png" group-title="LIVE KAJIAN",Robbani TV
+https://ppmk.my.id/tes/yt.php?id=jFj1woFeDb0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muhammad Nuzul Dzikri" tvg-logo="https://i.ibb.co/qgLZRPV/MNDz.png" group-title="LIVE KAJIAN",Muhammad Nuzul Dzikri
+https://yaumun.000webhostapp.com/desuntv/streaming/1/offline.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utsman TV" tvg-logo="https://i.ibb.co/6nTSf2W/UtsmanTV.png" group-title="LIVE KAJIAN",Utsman TV
+https://ppmk.my.id/tes/yt.php?id=GHtUtfUI6OU
+
+#EXTINF:-1 tvg-id="552562" tvg-name="Murottal Terjemah 24/7" tvg-logo="https://i.ibb.co/1ZDf2tw/Mp3quran.png" group-title="AL-QUR'AN",Murottal Terjemah 24/7
+http://quraan.us:9978/
+#EXTINF:-1 tvg-id="552562" tvg-name="[001] Surah Al-Fatihah (Pembukaan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[001] Surah Al-Fatihah (Pembukaan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190281
+#EXTINF:-1 tvg-id="233100" tvg-name="[002] Surah Al-Baqarah (Lembu Betina)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[002] Surah Al-Baqarah (Lembu Betina)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190282
+#EXTINF:-1 tvg-id="343202" tvg-name="[003] Surah Ali 'Imran (Keluarga Imran)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[003] Surah Ali 'Imran (Keluarga Imran)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190283
+#EXTINF:-1 tvg-id="786939" tvg-name="[004] Surah An-Nisaa' (Wanita)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[004] Surah An-Nisaa' (Wanita)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190284
+#EXTINF:-1 tvg-id="255522" tvg-name="[005] Surah Al-Maa'idah (Hidangan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[005] Surah Al-Maa'idah (Hidangan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190285
+#EXTINF:-1 tvg-id="358313" tvg-name="[006] Surah Al-An'aam (Binatang Ternakan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[006] Surah Al-An'aam (Binatang Ternakan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190286
+#EXTINF:-1 tvg-id="179806" tvg-name="[007] Surah Al-A'raaf (Tempat Tertinggi)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[007] Surah Al-A'raaf (Tempat Tertinggi)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190287
+#EXTINF:-1 tvg-id="696895" tvg-name="[008] Surah Al-Anfaal (Rampasan Perang)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[008] Surah Al-Anfaal (Rampasan Perang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190288
+#EXTINF:-1 tvg-id="937234" tvg-name="[009] Surah At-Taubah (Pengampunan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alqura

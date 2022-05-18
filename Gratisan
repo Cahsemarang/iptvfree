@@ -1,221 +1,935 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="anb channel" tvg-logo="https://i.ibb.co/QdTk4HB/anb.png" group-title="LIVE KAJIAN",anb channel
-#https://yaumun.000webhostapp.com/desuntv/streaming/1/offline.mp4
-https://ppmk.my.id/tes/yt.php?id=tn2LvMdmcxY
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rumaysho TV" tvg-logo="https://i.ibb.co/44LhQCW/Rumaysho.png" group-title="LIVE KAJIAN",Rumaysho TV
-https://yaumun.000webhostapp.com/desuntv/streaming/1/offline.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syafiq Riza Basalamah Official" tvg-logo="https://i.ibb.co/4KYJXT5/SRB.png" group-title="LIVE KAJIAN",Syafiq Riza Basalamah Official
-https://yaumun.000webhostapp.com/desuntv/streaming/1/offline.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Robbani TV" tvg-logo="https://i.ibb.co/Q8pbNCM/Robbani.png" group-title="LIVE KAJIAN",Robbani TV
-https://ppmk.my.id/tes/yt.php?id=jFj1woFeDb0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muhammad Nuzul Dzikri" tvg-logo="https://i.ibb.co/qgLZRPV/MNDz.png" group-title="LIVE KAJIAN",Muhammad Nuzul Dzikri
-https://yaumun.000webhostapp.com/desuntv/streaming/1/offline.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utsman TV" tvg-logo="https://i.ibb.co/6nTSf2W/UtsmanTV.png" group-title="LIVE KAJIAN",Utsman TV
-https://ppmk.my.id/tes/yt.php?id=GHtUtfUI6OU
 
-#EXTINF:-1 tvg-id="552562" tvg-name="Murottal Terjemah 24/7" tvg-logo="https://i.ibb.co/1ZDf2tw/Mp3quran.png" group-title="AL-QUR'AN",Murottal Terjemah 24/7
-http://quraan.us:9978/
-#EXTINF:-1 tvg-id="552562" tvg-name="[001] Surah Al-Fatihah (Pembukaan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[001] Surah Al-Fatihah (Pembukaan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190281
-#EXTINF:-1 tvg-id="233100" tvg-name="[002] Surah Al-Baqarah (Lembu Betina)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[002] Surah Al-Baqarah (Lembu Betina)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190282
-#EXTINF:-1 tvg-id="343202" tvg-name="[003] Surah Ali 'Imran (Keluarga Imran)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[003] Surah Ali 'Imran (Keluarga Imran)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190283
-#EXTINF:-1 tvg-id="786939" tvg-name="[004] Surah An-Nisaa' (Wanita)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[004] Surah An-Nisaa' (Wanita)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190284
-#EXTINF:-1 tvg-id="255522" tvg-name="[005] Surah Al-Maa'idah (Hidangan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[005] Surah Al-Maa'idah (Hidangan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190285
-#EXTINF:-1 tvg-id="358313" tvg-name="[006] Surah Al-An'aam (Binatang Ternakan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[006] Surah Al-An'aam (Binatang Ternakan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190286
-#EXTINF:-1 tvg-id="179806" tvg-name="[007] Surah Al-A'raaf (Tempat Tertinggi)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[007] Surah Al-A'raaf (Tempat Tertinggi)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190287
-#EXTINF:-1 tvg-id="696895" tvg-name="[008] Surah Al-Anfaal (Rampasan Perang)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[008] Surah Al-Anfaal (Rampasan Perang)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190288
-#EXTINF:-1 tvg-id="937234" tvg-name="[009] Surah At-Taubah (Pengampunan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[009] Surah At-Taubah (Pengampunan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190289
-#EXTINF:-1 tvg-id="626127" tvg-name="[010] Surah Yunus (Nabi Yunus a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[010] Surah Yunus (Nabi Yunus a.s.)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190290
-#EXTINF:-1 tvg-id="410590" tvg-name="[011] Surah Hud (Nabi Hud a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[011] Surah Hud (Nabi Hud a.s.)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190291
-#EXTINF:-1 tvg-id="904384" tvg-name="[012] Surah Yusuf (Nabi Yusuf a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[012] Surah Yusuf (Nabi Yusuf a.s.)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190292
-#EXTINF:-1 tvg-id="139353" tvg-name="[013] Surah Ar-Ra'd (Guruh)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[013] Surah Ar-Ra'd (Guruh)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190293
-#EXTINF:-1 tvg-id="903990" tvg-name="[014] Surah Ibrahim (Nabi Ibrahim a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[014] Surah Ibrahim (Nabi Ibrahim a.s.)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190294
-#EXTINF:-1 tvg-id="130690" tvg-name="[015] Surah Al-Hijr (Kawasan Berbatu)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[015] Surah Al-Hijr (Kawasan Berbatu)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190295
-#EXTINF:-1 tvg-id="317834" tvg-name="[016] Surah An-Nahl (Lebah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[016] Surah An-Nahl (Lebah)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190296
-#EXTINF:-1 tvg-id="226588" tvg-name="[017] Surah Al-Israa' (Perjalanan Malam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[017] Surah Al-Israa' (Perjalanan Malam)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190297
-#EXTINF:-1 tvg-id="901812" tvg-name="[018] Surah Al-Kahfi (Gua)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[018] Surah Al-Kahfi (Gua)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190298
-#EXTINF:-1 tvg-id="693043" tvg-name="[019] Surah Maryam (Siti Maryam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[019] Surah Maryam (Siti Maryam)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190299
-#EXTINF:-1 tvg-id="211053" tvg-name="[020] Surah Taahaa" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[020] Surah Taahaa
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190300
-#EXTINF:-1 tvg-id="241006" tvg-name="[021] Surah Al-Anbiyaa' (Para Nabi)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[021] Surah Al-Anbiyaa' (Para Nabi)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190301
-#EXTINF:-1 tvg-id="2053#EXTINF:-1 tvg-id="937234" tvg-name="[009] Surah At-Taubah (Pengampunan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[009] Surah At-Taubah (Pengampunan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190289
-#EXTINF:-1 tvg-id="626127" tvg-name="[010] Surah Yunus (Nabi Yunus a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[010] Surah Yunus (Nabi Yunus a.s.)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190290
-#EXTINF:-1 tvg-id="410590" tvg-name="[011] Surah Hud (Nabi Hud a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[011] Surah Hud (Nabi Hud a.s.)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190291
-#EXTINF:-1 tvg-id="904384" tvg-name="[012] Surah Yusuf (Nabi Yusuf a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[012] Surah Yusuf (Nabi Yusuf a.s.)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190292
-#EXTINF:-1 tvg-id="139353" tvg-name="[013] Surah Ar-Ra'd (Guruh)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[013] Surah Ar-Ra'd (Guruh)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190293
-#EXTINF:-1 tvg-id="903990" tvg-name="[014] Surah Ibrahim (Nabi Ibrahim a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[014] Surah Ibrahim (Nabi Ibrahim a.s.)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190294
-#EXTINF:-1 tvg-id="130690" tvg-name="[015] Surah Al-Hijr (Kawasan Berbatu)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[015] Surah Al-Hijr (Kawasan Berbatu)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190295
-#EXTINF:-1 tvg-id="317834" tvg-name="[016] Surah An-Nahl (Lebah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[016] Surah An-Nahl (Lebah)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190296
-#EXTINF:-1 tvg-id="226588" tvg-name="[017] Surah Al-Israa' (Perjalanan Malam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[017] Surah Al-Israa' (Perjalanan Malam)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190297
-#EXTINF:-1 tvg-id="901812" tvg-name="[018] Surah Al-Kahfi (Gua)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[018] Surah Al-Kahfi (Gua)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190298
-#EXTINF:-1 tvg-id="693043" tvg-name="[019] Surah Maryam (Siti Maryam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[019] Surah Maryam (Siti Maryam)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190299
-#EXTINF:-1 tvg-id="211053" tvg-name="[020] Surah Taahaa" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[020] Surah Taahaa
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190300
-#EXTINF:-1 tvg-id="241006" tvg-name="[021] Surah Al-Anbiyaa' (Para Nabi)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[021] Surah Al-Anbiyaa' (Para Nabi)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190301
-#EXTINF:-1 tvg-id="205380" tvg-name="[022] Surah Al-Hajj (Haji)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[022] Surah Al-Hajj (Haji)
-https://m3u-editor.com/serv80" tvg-name="[022] Surah Al-Hajj (Haji)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[022] Surah Al-Hajjtvg)
-#EXTINF:-1 tvg-id="205380" tvg-name="[023] Surah Al-Mu'minun (Orang-Orang Mukmin)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[023] Surah Al-Mu'minun (Orang-Orang Mukmin)
-https://archive.org/download/MurotalMR/023.mp3
-#EXTINF:-1 tvg-id="205380" tvg-name="[024] Surah An-Nur (Cahaya)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[024] Surah An-Nur (Cahaya)
-https://archive.org/download/MurotalMR/024.mp3
-#EXTINF:-1 tvg-id="192335" tvg-name="[025] Surah Al-Furqaan (Pembeda)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[025] Surah Al-Furqaan (Pembeda)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190303
-#EXTINF:-1 tvg-id="595844" tvg-name="[026] Surah Asy-Syu'ara' (Para Penyair)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[026] Surah Asy-Syu'ara' (Para Penyair)
-https://archive.org/download/MurotalMR/026.mp3
-#EXTINF:-1 tvg-id="595844" tvg-name="[027] Surah An-Naml (Semut)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[027] Surah An-Naml (Semut)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190304
-#EXTINF:-1 tvg-id="788895" tvg-name="[028] Surah Al-Qasas (Cerita-cerita)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[028] Surah Al-Qasas (Cerita-cerita)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190305
-#EXTINF:-1 tvg-id="934696" tvg-name="[029] Surah Al-'Ankabut (Labah-labah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[029] Surah Al-'Ankabut (Labah-labah)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190306
-#EXTINF:-1 tvg-id="212182" tvg-name="[030] Surah Ar-Rum (Bangsa Rom)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[030] Surah Ar-Rum (Bangsa Rom)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190307
-#EXTINF:-1 tvg-id="324240" tvg-name="[031] Surah Luqman (Luqman)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[031] Surah Luqman (Luqman)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190308
-#EXTINF:-1 tvg-id="990477" tvg-name="[032] Surah As-Sajdah (Sujud)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[032] Surah As-Sajdah (Sujud)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190309
-#EXTINF:-1 tvg-id="836912" tvg-name="[033] Surah Al-Ahzab (Golongan yang Bersekutu)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[033] Surah Al-Ahzab (Golongan yang Bersekutu)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190310
-#EXTINF:-1 tvg-id="767896" tvg-name="[034] Surah Saba' (Kaum Saba')" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[034] Surah Saba' (Kaum Saba')
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190311
-#EXTINF:-1 tvg-id="726448" tvg-name="[035] Surah Faatir (Pencipta)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[035] Surah Faatir (Pencipta)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190312
-#EXTINF:-1 tvg-id="433355" tvg-name="[036] Surah Yaasin" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[036] Surah Yaasin
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190313
-#EXTINF:-1 tvg-id="712332" tvg-name="[038] Surah Saad" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[038] Surah Saad
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190314
-#EXTINF:-1 tvg-id="610083" tvg-name="[039] Surah Az-Zumar (Rombongan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[039] Surah Az-Zumar (Rombongan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190315
-#EXTINF:-1 tvg-id="122873" tvg-name="[040] Surah Fussilat (Dijelaskan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[040] Surah Fussilat (Dijelaskan)
-https://archive.org/download/MurotalMR/040.mp3
-#EXTINF:-1 tvg-id="122873" tvg-name="[041] Surah Fussilat (Dijelaskan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[041] Surah Fussilat (Dijelaskan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190316
-#EXTINF:-1 tvg-id="132710" tvg-name="[042] Surah Asy-Syuraa (Permesyuaratan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[042] Surah Asy-Syuraa (Permesyuaratan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190317
-#EXTINF:-1 tvg-id="703287" tvg-name="[043] Surah Az-Zukhruf (Perhiasan Emas)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[043] Surah Az-Zukhruf (Perhiasan Emas)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190318
-#EXTINF:-1 tvg-id="703287" tvg-name="[044] Surah Ad-Dukhan (Kabut)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[044] Surah Ad-Dukhan (Kabut)
-https://archive.org/download/MurotalMR/044.mp3
-#EXTINF:-1 tvg-id="873394" tvg-name="[045] Surah Al-Jatsiyah (Yang Berlutut)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[045] Surah Al-Jatsiyah (Yang Berlutut)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190319
-#EXTINF:-1 tvg-id="603463" tvg-name="[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190320
-#EXTINF:-1 tvg-id="734543" tvg-name="[047] Surah Muhammad (Nabi Muhammad SAW)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[047] Surah Muhammad (Nabi Muhammad SAW)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190321
-#EXTINF:-1 tvg-id="734997" tvg-name="[048] Surah Al-Fath (Kemenangan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[048] Surah Al-Fath (Kemenangan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190322
-#EXTINF:-1 tvg-id="300169" tvg-name="[049] Surah Al-Hujurat (Bilik-bilik)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[049] Surah Al-Hujurat (Bilik-bilik)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190323
-#EXTINF:-1 tvg-id="638200" tvg-name="[050] Surah Qaaf" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[050] Surah Qaaf
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190324
-#EXTINF:-1 tvg-id="799119" tvg-name="[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[051] Surah Adz-Dzariyaat (Angin yang MenerbanAL#EXTINF:-1 tvg-id="743254" tvg-name="[052] Surah At-Tur (Bukit)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[052] Surah At-Tur (Bukit)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190326
-#EXTINF:-1 tvg-id="927154" tvg-name="[053] Surah An-Najm (Bintang)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[053] Surah An-Najm (Bintang)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190327
-#EXTINF:-1 tvg-id="351911" tvg-name="[054] Surah Al-Qamar (Bulan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[054] Surah Al-Qamar (Bulan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190328
-#EXTINF:-1 tvg-id="261613" tvg-name="[055] Surah Ar-Rahman (Yang Maha Pemurah)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[055] Surah Ar-Rahman (Yang Maha Pemurah)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190329
-#EXTINF:-1 tvg-id="261613" tvg-name="[056] Surah Al-Waqi'ah (Hari Kiamat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[056] Surah Al-Waqi'ah (Hari Kiamat)
-https://archive.org/download/MurotalMR/056.mp3
-#EXTINF:-1 tvg-id="261613" tvg-name="[057] Surah Al-Hadid (Besi)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[057] Surah Al-Hadid (Besi)
-https://archive.org/download/MurotalMR/057.mp3
-#EXTINF:-1 tvg-id="972439" tvg-name="[058] Surah Al-Mujadilah (Perempuan yang Merayu)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[058] Surah Al-Mujadilah (Perempuan yang Merayu)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190330
-#EXTINF:-1 tvg-id="793053" tvg-name="[059] Surah Al-Hasyr (Pengusiran)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[059] Surah Al-Hasyr (Pengusiran)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190331
-#EXTINF:-1 tvg-id="647134" tvg-name="[060] Surah Al-Mumtahanah (Perempuan yang Diuji)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190332
-#EXTINF:-1 tvg-id="948480" tvg-name="[061] Surah As-Saf (Barisan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[061] Surah As-Saf (Barisan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190333
-#EXTINF:-1 tvg-id="732463" tvg-name="[062] Surah Al-Jumu'ah (Hari Jumaat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[062] Surah Al-Jumu'ah (Hari Jumaat)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190334
-#EXTINF:-1 tvg-id="912804" tvg-name="[063] Surah Al-Munafiquun (Golongan Munafik)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[063] Surah Al-Munafiquun (Golongan Munafik)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190335
-#EXTINF:-1 tvg-id="433585" tvg-name="[064] Surah At-Taghabun (Dinampakkan Kesalahan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[064] Surah At-Taghabun (Dinampakkan Kesalahan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190336
-#EXTINF:-1 tvg-id="420297" tvg-name="[065] Surah At-Talaq (Cerai / Talak)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[065] Surah At-Talaq (Cerai / Talak)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190337
-#EXTINF:-1 tvg-id="179978" tvg-name="[066] Surah At-Tahrim (Mengharamkan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[066] Surah At-Tahrim (Mengharamkan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190338
-#EXTINF:-1 tvg-id="141698" tvg-name="[067] Surah Al-Mulk (Kerajaan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[067] Surah Al-Mulk (Kerajaan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190339
-#EXTINF:-1 tvg-id="537264" tvg-name="[068] Surah Al-Qalam (Pena / Kalam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[068] Surah Al-Qalam (Pena / Kalam)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190340
-#EXTINF:-1 tvg-id="126455" tvg-name="[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190341
-#EXTINF:-1 tvg-id="610319" tvg-name="[070] Surah Al-Maâarij (Tempat Naik)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[070] Surah Al-Maâarij (Tempat Naik)
-https://archive.org/download/MurotalMR/070.mp3
-#EXTINF:-1 tvg-id="610319" tvg-name="[071] Surah Nuh (Nabi Nuh a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[071] Surah Nuh (Nabi Nuh a.s.)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190342
-#EXTINF:-1 tvg-id="610319" tvg-name="[072] Surah Al-Jinn (Jin)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[072] Surah Al-Jinn (Jin)
-https://archive.org/download/MurotalMR/072.mp3
-#EXTINF:-1 tvg-id="133032" tvg-name="[073] Surah Al-Muzammil (Yang Berselimut)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[073] Surah Al-Muzammil (Yang Berselimut)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190343
-#EXTINF:-1 tvg-id="308177" tvg-name="[074] Surah Al-Muddathir (Yang Berselubung)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[074] Surah Al-Muddathir (Yang Berselubung)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190344
-#EXTINF:-1 tvg-id="869094" tvg-name="[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190345
-#EXTINF:-1 tvg-id="610319" tvg-name="[076] Surah Al-Insan (Manusia)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[076] Surah Al-Insan (Manusia)
-https://archive.org/download/MurotalMR/076.mp3
-#EXTINF:-1 tvg-id="380202" tvg-name="[077] Surah Al-Mursalat (Malaikat Yang Diutus)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[077] Surah Al-Mursalat (Malaikat Yang Diutus)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190346
-#EXTINF:-1 tvg-id="488450" tvg-name="[078] Surah An-Naba' (Berita Besar)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" gro
-#EXTINF:-1 tvg-id="420297" tvg-name="[065] Surah At-Talaq (Cerai / Talak)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[065] Surah At-Talaq (Cerai / Talak)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190337
-#EXTINF:-1 tvg-id="179978" tvg-name="[066] Surah At-Tahrim (Mengharamkan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[066] Surah At-Tahrim (Mengharamkan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190338
-#EXTINF:-1 tvg-id="141698" tvg-name="[067] Surah Al-Mulk (Kerajaan)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[067] Surah Al-Mulk (Kerajaan)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190339
-#EXTINF:-1 tvg-id="537264" tvg-name="[068] Surah Al-Qalam (Pena / Kalam)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[068] Surah Al-Qalam (Pena / Kalam)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190340
-#EXTINF:-1 tvg-id="126455" tvg-name="[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190341
-#EXTINF:-1 tvg-id="610319" tvg-name="[070] Surah Al-Maâarij (Tempat Naik)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[070] Surah Al-Maâarij (Tempat Naik)
-https://archive.org/download/MurotalMR/070.mp3
-#EXTINF:-1 tvg-id="610319" tvg-name="[071] Surah Nuh (Nabi Nuh a.s.)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[071] Surah Nuh (Nabi Nuh a.s.)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190342
-#EXTINF:-1 tvg-id="610319" tvg-name="[072] Surah Al-Jinn (Jin)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[072] Surah Al-Jinn (Jin)
-https://archive.org/download/MurotalMR/072.mp3
-#EXTINF:-1 tvg-id="133032" tvg-name="[073] Surah Al-Muzammil (Yang Berselimut)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[073] Surah Al-Muzammil (Yang Berselimut)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190343
-#EXTINF:-1 tvg-id="308177" tvg-name="[074] Surah Al-Muddathir (Yang Berselubung)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[074] Surah Al-Muddathir (Yang Berselubung)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190344
-#EXTINF:-1 tvg-id="869094" tvg-name="[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190345
-#EXTINF:-1 tvg-id="610319" tvg-name="[076] Surah Al-Insan (Manusia)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[076] Surah Al-Insan (Manusia)
-https://archive.org/download/MurotalMR/076.mp3
-#EXTINF:-1 tvg-id="380202" tvg-name="[077] Surah Al-Mursalat (Malaikat Yang Diutus)" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="AL-QUR'AN",[077] Surah Al-Mursalat (Malaikat Yang Diutus)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190346
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",GTV
+https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QnDPDLYSHiH3cgVTHW3KxBvvy6Q=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/bc64b2.png",GTV HD
+http://194.233.77.149:25461/live/lokalpremi/Zud2JZxqJI/4.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",INEWS
+https://d25tjwq1t7aw0m.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",MNCTV
+https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://logo.iptveditor.com/mnctv.png",MNC TV HD
+http://194.233.77.149:25461/live/lokalpremi/Zud2JZxqJI/10.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",RCTI
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI HD
+http://194.233.77.149:25461/live/lokalpremi/Zud2JZxqJI/16.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI HD - backup
+http://194.233.77.149:25461/live/lokalpremi/Zud2JZxqJI/3671.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png",SCTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png",ANTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",Indosiar
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png",NET_TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/LbunykRPWkmRYi-RN4xt9EMf9_E=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png",TVOne
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png",TRANS_TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png",Trans7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/SxXl0u9ZB4a2sj63W-PaDtqmMNA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg",JAK_TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png",MetroTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/0qrOZySm_gYRMK5VNsh9RKQAzzc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg",KOMPAS_TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",TVRI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/My9mYFmho6-FO2QdNmslYUbEH7k=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png",RTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/uzRqOU9N2dIrniO-0LJpDkbBUEk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg",BERITA_SATU
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/wxGl9W6CSExkpP07PKDkY2xyZKg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg",MY_TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/uVFSoTESS5e1aejpa34oI2a8a_g=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg",OShop
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg",MUSICA
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/J2XyRjB9l6ZpDQGkdWPBSYn1-5s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8241/rans-channel-2a6db6.jpg",RANS_Channel
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/z2gl2uUHI4OzdAWuUYEruLNzux4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",Magna_TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f0b76267fbe12b936bd65e203dc675c1446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/lXR0RNo_sOsVOxIs_3bKHkY9KyY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg",MENTARI_TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/8Uruoktf9WtjEmoF2vFgyuC9paM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg",TV_EDUKASI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/i2UHtnLoP9ZY-p91ZPIS1SNp4Sc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-hls-test-6bc2ee.jpg",NHK_Newsline
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9dd30287dc5ffcfb4efb1e0521c3c8f8446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/IQFqKIbeyevKjC8dXu8FXht94HQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-dbc808.jpg",DW_News
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522c446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/D1OrDJQmT6WqfzeDFHGAQoUbJ68=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7946/tv-tempo-ed7796.jpg",TV_Tempo
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=5d188b044333b4c62676e0d4f53dade7446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg",U_Channel
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=76383b34503afb0508f8364787c55800446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/lx7oUbYJydZuOl0kpvxEbnTzT6o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg",DAAI_TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/z4x2PkBTzTivB-VIK84936zZZVU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg",NUSANTARA
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/zFF27-zkkhoh0pah3JqUjG8ItDM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg",AJWA_TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg",AlQuran_AlKareem_TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vid.id/hoS6Jo9rM8wie723mTleODvZjCo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg",REFORMED_21
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315dd446503011668def857b1c03bafabba51
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png",Dunia Lain ID
+http://194.233.77.149:25461/live/lokalpremi/Zud2JZxqJI/849.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Al Jazeera English
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",NBC News Now
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://imgur.com/TAqxeC5.png",Insert Live
+http://live.insertlive.com/insertlive/smil:insertlive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png",Indosiar
+http://nonton.wap.sh/id/002.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/kbXGgUs.png",indosiar
+https://akudandia.xyz//locs/akudandia-205.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004",Jakarta Globe NEWS CHANNEL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/QNQrm50/antv.png",ANTV
+http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/GCkTFqZ/elshin.jpg",ELSHINTA TV
+http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k",INDOSIAR
+http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png?v=2.0.0.15",SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13",NET HD
+http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 group-title="Indonesia",RTV
+http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg",METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w504410639_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13",KOMPAS TV
+http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.useetv.com/pimages/logo_tvri_small1.png?v=2.0.0.13",TVRI
+http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
+http://210.210.155.35:80/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13",RODJA TV
+http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",The Indonesian Chanel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVRI PAPUA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png",BBC WORLD
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/hK7YYg4/cnn.jpg",CNN NEWS
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV4
+http://210.210.155.35/qwr9ew/s/s19/02.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",503 CGTN HD
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/jfmkzd7.png?v=1.0.0.1",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/jfmkzd7.png?v=8.8.4.4",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/RwVhc31.png?v=1.1.1.1",ADI TV
+https://v2.siar.us/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.1.1.1",Al arabiya
+http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/fgUVz5m.png?v=1.1.1.1",Aljazeera Arabic
+http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Animal Planet
+http://189.91.128.146:4444/udp/227.10.20.118:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/yICjApS.png?v=8.8.4.4",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.1.1.1",Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Band News
+http://189.91.128.146:4444/udp/227.10.20.131:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://streaming.bandungtv.tv/wp-content/uploads/2019/10/bandungtvstream.png",BandungTV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.1.1.1",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Canal Rural
+http://189.91.128.146:4444/udp/227.10.20.125:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 4
+http://189.91.128.146:4444/udp/227.10.20.144:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.1.1.1",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/vHqJMrW/tv2.png",channel2
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.1.1.1",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/yBWB003/cnnin.png",CNNINDONESIA+
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png",CTVBanten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Discovery
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Discovery Home & Health
+http://189.91.128.146:4444/udp/227.10.20.85:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Discovery ANAK²
+http://189.91.128.146:4444/udp/227.10.20.83:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Discovery Turbo
+http://189.91.128.146:4444/udp/227.10.20.82:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Discovey Science
+http://189.91.128.146:4444/udp/227.10.20.92:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Disney Channel
+http://189.91.128.146:4444/udp/227.10.20.90:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Dunia Games TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co/n1J0X8j/e3.png",e3 SPORT
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ESPN
+http://189.91.128.146:4444/udp/227.10.20.128:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",FilmriseCrime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",FilmriseFamily
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",FilmriseMovies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",FlimHub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",FOXMIXTV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Global TV
+http://eroz84.wap.sh/local/gtv.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Globo
+http://189.91.128.146:4444/udp/227.10.20.150:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Gloob
+http://189.91.128.146:4444/udp/227.10.20.91:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",GravitasMovies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",HBO
+http://189.91.128.146:4444/udp/227.10.20.133:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",History
+http://189.91.128.146:4444/udp/227.10.20.130:1234
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Hi-Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ID
+http://189.91.128.146:4444/udp/227.10.20.93:1234
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png",SCTV
+http://akudandia.xyz/locs/akudandia-204.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://mantul.org/logo/citramuslim.png",Citra Muslim
+http://akudandia.xyz/man-prem/centertainment.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",SONY_PAL
+http://103.153.39.36:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="Lokal" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",HBO
+https://live.astradamy.com/hbogo/hbosig/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",MNCTV
+http://203.77.246.50:5000/udp/239.1.3.78:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",RCTI
+http://203.77.246.50:5000/udp/239.1.3.80:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",GLOBALTV
+http://203.77.246.50:5000/udp/239.1.3.68:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",JTV
+http://203.77.246.50:5000/udp/239.1.1.68:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",RTV
+http://203.77.246.50:5000/udp/239.1.1.70:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Net HD
+http://203.77.246.50:5000/udp/239.1.1.72:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVONE
+http://203.77.246.50:5000/udp/239.1.2.68:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Trans TV
+http://203.77.246.50:5000/udp/239.1.1.100:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Trans 7
+http://203.77.246.50:5000/udp/239.1.1.102:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ANTV
+http://203.77.246.50:5000/udp/239.1.1.104:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Kompas TV
+http://203.77.246.50:5000/udp/239.1.1.106:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",SCTV
+http://203.77.246.50:5000/udp/239.1.1.108:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Indosiar
+http://203.77.246.50:5000/udp/239.1.1.110:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",JakTV
+http://203.77.246.50:5000/udp/239.1.1.8:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Nusantara TV
+http://203.77.246.50:5000/udp/239.1.1.14:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Metro TV HD
+http://203.77.246.50:5000/udp/239.1.1.66:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",DAAI TV
+http://203.77.246.50:5000/udp/239.1.1.78:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVRI HD
+http://203.77.246.50:5000/udp/239.1.2.66:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",JAKTV
+http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png",MyTV
+https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/chunks.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",INDONESIANA
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/2.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeANAK².jpg",Biznet ANAK²
+http://livestream.biznetvideo.net/biznet_ANAK²/smil:ANAK².smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtFmjz.jpg",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png",CNNINDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b192000_sleng.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://dusktill.masuk.web.id/img/digione.png",DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Dangdut TIVI
+http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CT9u30.jpg",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.imgur.com/EYJ0ED2.png?v=1.0.0.1",Jakarta Globe News Channel
+https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://kamiselaluada.com/img/rri.png",RRI NET
+http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Rodja TV
+http://203.77.246.50:5000/udp/239.1.2.70:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",HBO Signature FHD
+http://203.77.246.50:5000/udp/239.1.3.74:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",HBO Family FHD
+http://203.77.246.50:5000/udp/239.1.3.76:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",HBO Hits FHD
+http://203.77.246.50:5000/udp/239.1.3.82:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",HBO FHD
+http://203.77.246.50:5000/udp/239.1.3.84:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",AXN HD
+http://203.77.246.50:5000/udp/239.1.2.234:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",AXN
+http://203.77.246.50:5000/udp/239.1.2.142:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Thrill
+http://203.77.246.50:5000/udp/239.1.2.216:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Rock Ent HD
+http://203.77.246.50:5000/udp/239.1.2.220:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Rock Ent
+http://203.77.246.50:5000/udp/239.1.2.130:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Rock Ext
+http://203.77.246.50:5000/udp/239.1.2.132:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Rock Ext HD
+http://203.77.246.50:5000/udp/239.1.2.222:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",One HD
+http://203.77.246.50:5000/udp/239.1.2.236:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Gem HD
+http://203.77.246.50:5000/udp/239.1.2.238:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Hits HD
+http://203.77.246.50:5000/udp/239.1.2.240:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Hits Movies HD
+http://203.77.246.50:5000/udp/239.1.2.150:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Warner TV
+http://203.77.246.50:5000/udp/239.1.2.156:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Sinema Indonesia
+http://203.77.246.50:5000/udp/239.1.1.74:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",K-Drama
+http://203.77.246.50:5000/udp/239.1.1.76:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",One
+http://203.77.246.50:5000/udp/239.1.2.144:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",GEM
+http://203.77.246.50:5000/udp/239.1.2.146:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Hits
+http://203.77.246.50:5000/udp/239.1.2.148:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Discovery
+http://203.77.246.50:5000/udp/239.1.2.134:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Animal Planet
+http://203.77.246.50:5000/udp/239.1.2.136:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",AFN HD
+http://203.77.246.50:5000/udp/239.1.2.228:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",AFN
+http://203.77.246.50:5000/udp/239.1.2.138:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TLC
+http://203.77.246.50:5000/udp/239.1.2.140:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TLC HD
+http://203.77.246.50:5000/udp/239.1.2.232:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",BBC WN HD
+http://203.77.246.50:5000/udp/239.1.2.244:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",BBC WN
+http://203.77.246.50:5000/udp/239.1.2.152:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Cartoon Network
+http://203.77.246.50:5000/udp/239.1.2.154:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Boomerang
+http://203.77.246.50:5000/udp/239.1.2.158:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Celestial Movie
+http://203.77.246.50:5000/udp/239.1.2.162:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 4
+http://203.77.246.50:5000/udp/239.1.1.98:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Pace Sport
+http://203.77.246.50:5000/udp/239.1.2.218:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Discovery HD
+http://203.77.246.50:5000/udp/239.1.2.224:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Animal Planet HD
+http://203.77.246.50:5000/udp/239.1.2.226:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CGTN France
+http://203.77.246.50:5000/udp/239.1.1.112:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Dubai TV HD
+http://203.77.246.50:5000/udp/239.1.1.198:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",RAI Italy
+http://203.77.246.50:5000/udp/239.1.1.132:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TV Arab HD
+http://203.77.246.50:5000/udp/239.1.1.138:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Xing Kong
+http://203.77.246.50:5000/udp/239.1.1.142:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",V Channel
+http://203.77.246.50:5000/udp/239.1.1.144:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TV Rusia
+http://203.77.246.50:5000/udp/239.1.3.70:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TV5 Monde Asie
+http://203.77.246.50:5000/udp/239.1.1.168:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CNA HD
+http://203.77.246.50:5000/udp/239.1.1.170:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",RTP Gravado
+http://203.77.246.50:5000/udp/239.1.1.196:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Zee Blue
+http://203.77.246.50:5000/udp/239.1.1.200:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TRT World
+http://203.77.246.50:5000/udp/239.1.1.202:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Phoenix HD
+http://203.77.246.50:5000/udp/239.1.1.226:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Zee Red
+http://203.77.246.50:5000/udp/239.1.1.206:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Phoenix
+http://203.77.246.50:5000/udp/239.1.1.228:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",France24 HD
+http://203.77.246.50:5000/udp/239.1.1.230:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Zing
+http://203.77.246.50:5000/udp/239.1.1.232:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ZeeNews
+http://203.77.246.50:5000/udp/239.1.1.234:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",NHK World HD
+http://203.77.246.50:5000/udp/239.1.2.2:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Arirang
+http://203.77.246.50:5000/udp/239.1.2.4:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CGTN Documentary HD
+http://203.77.246.50:5000/udp/239.1.2.34:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",RFI Talent
+http://203.77.246.50:5000/udp/239.1.2.36:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",KBS Korea HD
+http://203.77.246.50:5000/udp/239.1.2.38:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",YTN
+http://203.77.246.50:5000/udp/239.1.2.40:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Aljaseera World
+http://203.77.246.50:5000/udp/239.1.2.72:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TV China
+http://203.77.246.50:5000/udp/239.1.3.66:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 2
+http://203.77.246.50:5000/udp/239.1.2.166:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 17
+http://203.77.246.50:5000/udp/239.1.2.168:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 10
+http://203.77.246.50:5000/udp/239.1.2.170:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 11
+http://203.77.246.50:5000/udp/239.1.2.172:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 12
+http://203.77.246.50:5000/udp/239.1.2.174:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 13
+http://203.77.246.50:5000/udp/239.1.2.178:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 14
+http://203.77.246.50:5000/udp/239.1.2.180:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Dragon TV
+http://203.77.246.50:5000/udp/239.1.2.186:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TV Arab
+http://203.77.246.50:5000/udp/239.1.3.52:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Euronews
+http://203.77.246.50:5000/udp/239.1.2.206:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TV Arab FHD
+http://203.77.246.50:5000/udp/239.1.3.56:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 15
+http://203.77.246.50:5000/udp/239.1.2.212:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 7
+http://203.77.246.50:5000/udp/239.1.2.214:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",New
+http://203.77.246.50:5000/udp/239.1.2.246:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Alarabiyah FHD
+http://203.77.246.50:5000/udp/239.1.3.54:5000
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",AntaraTV
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.imgur.com/m7dgYjL.jpg",JAKARTAGLOBENEWSCHANNEL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.imgur.com/b5kZNlN.png",MYTV
+https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
+#EXTINF:-1 group-title="SPL" tvg-logo="https://cdn4.mbahnunungonline.net/img/Jj4S2E4.png?v=1.1.1.1",Metro TV
+https://dl.dropbox.com/s/eh6vnwh4hs874xx/6183ec225226ccc.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",METRO TV
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",RCTI+
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="SPL" tvg-logo="https://cdn4.mbahnunungonline.net/img/N1yKLa1.png?v=1.1.1.1",tvOne
+https://dl.dropbox.com/s/142snmg1sg2zm5r/0976f879a0c4548.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVRI
+http://45.126.83.51/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVRI
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png",TVRI
+http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVRI (Opt-2)
+http://45.126.83.51/qwr9ew/s/s11/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVRI SPORT HD
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg",TVRI3
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVRIBUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://images.useetv.com/logo_tvri_big1.png",TVRINASIONAL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVRINASIONAL
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png",TVRIYogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",U Channel
+http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",DAAI TV
+http://45.126.83.51/qwr9ew/s/s13/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.0.0.1",DAAI TV
+https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ELSHINTA TV
+http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ELSHINTATV
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ENTERTAINMENT ID
+http://45.126.83.51/uq2663/h/h10/index2.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.postimg.cc/855nFvRM/berita-satu.jpg",BERITA_SATU_HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.postimg.cc/76WtSL9c/13-beritasatu.jpg",BERITA_SATU_WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png",BeritaSatu1
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",BERITASATUENGLISH
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",BERITASATUWORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTW01n.jpg",Discovery Asia VN
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Diva
+http://45.126.83.51:443/uq2663/h/h11/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",SCTV
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",SCTV1
+http://45.126.83.51/session/646e4fb8-fc0a-11ea-b8b0-b58a843119cc/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",KOMPASTV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1486272814_b878000_sleng.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://kamiselaluada.com/img/magnatv.png",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_Nashyatv_b3884000_sleng.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtkPRt.jpg",Sexy KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",SHOWBIZ
+http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Sinema Indonesia
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtMuX1.jpg",ABC News Aus
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwWE3a.jpg",ABC NewsLive
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ADITV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/15/Cb5XZq.jpg",AFN
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png",Afrobeats 24/7
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtkpRn.jpg",AFV
+https://f0bf1e7453204df8a7cb6f76918b16b8.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-ROKU/mt/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Al Jazeera
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Al Quran Al Kareem
+http://210.210.155.35/session/7ef3a51e-1571-11ec-8e1f-abce9e88f7fa/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ALJAZEERA
+http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ALJAZEERA ARABIC
+http://45.126.83.51/qwr9ew/s/s16/index2.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ALJAZEERA ENG
+http://45.126.83.51/qwr9ew/s/s17/index2.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ALJAZEERAENGLISH
+http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ANIMALPLANET
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/02.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ANIMAX
+http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ANIPLUS
+http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ANIPLUS ID
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/17/CoFld1.png",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?
+#EXTINF:-1 group-title="SPL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",Astro Awani
+https://awanitv.akamaized.net:443/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",AXN ID
+http://45.126.83.51/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/17/CDA361.jpg",Baby First
+http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true",BAMBU
+https://bambu-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-xumo/CDN/1920x1080_5055600/chunklist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Basme
+http://176.9.17.76:7080/live/stream/8dl627dwai/53.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU",BBCEarth
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtI5cJ.jpg",Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAA2C1.jpg",Bloomberg US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/552.png?rand=978",BloombergHD
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",BLOOMBERGTV
+http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAiF1W.jpg",Blue Ant Entertainment
+http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CARZ6P.jpg",Blue Ant Extreme
+http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png",Boogle Bollywood
+http://live.agmediachandigarh.com:80/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.imgur.com/W48Uxa1.jpg",CANELNEWSHD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CARTOONNETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/02.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCM
+http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV 4
+http://45.126.83.51/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CCTV4
+http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CELESTIALMOVIES
+http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/21/CClJJD.jpg",CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://tvbeta.my.id/logo/tivi/cgtn.png",CGTNNews
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://dusktill.masuk.web.id/img/channel4u.png",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",CHANNEL C
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",CHINESEMOVIE
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CANoGz.jpg",CHIVETV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Christmas
+http://176.9.17.76:7080/live/stream/8dl627dwai/45.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/17/CoaXPt.jpg",CineLife
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/23/Cnt3ER.jpg",Circle
+https://circle-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/09/CiOh6u.jpg",CMT Music
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAKOj9.png",Da Vinci ANAK²
+http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",DeepMusic
+http://176.9.17.76:7080/live/stream/8dl627dwai/56.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",DJINGHITS
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",DJINGKARAOKE
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Documentar
+http://176.9.17.76:7080/live/stream/8dl627dwai/44.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Doundc
+http://176.9.17.76:7080/live/stream/8dl627dwai/80.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="https://imgstatic.vtvcab.vn/logos/DF_M.png",Dr.FitChannelHD
+https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/drfithd_abr/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",DubaiRacing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://dusktill.masuk.web.id/img/duniagames.png",Dunia Games TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CApg0D.jpg",DW EN
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwYOzW.jpg",EURO News
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",EUROSPORTID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/02.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",FAILARMY
+https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtIBvk.jpg",France 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://static.epg.best/fr/France24English.fr.png",France24English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_700.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://imgstatic.vtvcab.vn/logos/F24_M.png",France24HD
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",GEO_SUPER
+http://221.120.204.4:80/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?bkzictv.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://imgstatic.vtvcab.vn/logos/HK_M.png",HappyANAK²HD
+https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/happykidhd_abr/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",History
+http://176.9.17.76:7080/live/stream/8dl627dwai/40.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/09/CRZhVS.jpg",Hi-Yah!
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://imgstatic.vtvcab.vn/logos/H1_M.png",HTV1
+https://livecdn.fptplay.net/sdb/htv1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://imgstatic.vtvcab.vn/logos/H3_M.png",HTV3
+https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://imgstatic.vtvcab.vn/logos/H4_M.png",HTV4
+https://livecdn.fptplay.net/sdb/htv4_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",I AM CHANNEL
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.ibb.co/2MtrDwv/I-Am-Channel.png",IAMChannel
+http://iamchannel.org:1935/tes/1/chunklist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png",IDXChannel
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/16/ClJTwP.jpg",IFC Films Picks
+https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Introuble
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Inwild
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/21/CC6ekW.jpg",INWILD
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/05/C1TM40.jpg",KBS World
+http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.imgur.com/wIUw5RB.png",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",KUGO 1
+http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",KUWAITONE
+http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://3.bp.blogspot.com/-E-jbg5dlGFQ/Xctyf4G342I/AAAAAAAAo24/M5IvvN0jGekYUsruQsSP22gIzcNRxV5GQCLcBGAsYHQ/s1600/lapak-musik-tv-channel-logo.png",LapakMusik
+https://anevia114.mncnow.id/live/eds/ANAK²Channel/sa_hls_vmx/ANAK²Channel.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtfabV.jpg",Lookthoong TV
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",LOVENATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwOsXJ.jpg",Lovenature 4k EN
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",MCC
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ctk8kN.jpg",MiamiTV Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.ibb.co/X4BtvJq/movie-sphere.png",Movie Sphere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Cth6BJ.jpg",MTV Party
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CthsTy.jpg",MTV POP
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CthVgq.jpg",MTV Spankin
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CthOqS.jpg",MTV YO!
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",MuhammadiyahTV
+http://202.80.222.174/000001/2/ch00000090990000001813/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-360/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif",Music4U
+http://203.154.243.89:1213
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtF2Pn.jpg",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="SPL",NFOODCHANNELID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwWHNk.jpg",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTAUO0.jpg",Nick
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTAJaD.jpg",Nick Jr. Dora TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTA6zV.jpg",Nickelodeon
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",OneGolf pakistan
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",OneMusic
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="SPL" tvg-logo="https://imgstatic.vtvcab.vn/logos/PE_M.png",PlanetEarthHD
+https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/planetearthhd_abr/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",PUJA TV ACEH
+https://v6.siar.us/pujatv/live/chunks.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Radio 51 TV
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",RADIONORBATV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct3AbD.jpg",Red Bull HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Rololol
+http://176.9.17.76:7080/live/stream/8dl627dwai/48.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",RomanianMusic
+http://176.9.17.76:7080/live/stream/8dl627dwai/49.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",RTM+
+http://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Science
+http://176.9.17.76:7080/live/stream/8dl627dwai/81.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",SMITHSONIAN CHANNEL
+https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Stand_Up
+http://176.9.17.76:7080/live/stream/8dl627dwai/46.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Star
+http://176.9.17.76:7080/live/stream/8dl627dwai/47.ts
+#EXTINF:-1 group-title="SPL" tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png",StarSports1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8?
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.imgur.com/BXnUONl.png",StarSports1HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.imgur.com/BXnUONl.png",StarSportsSelect1HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png",StarSportsSelect2HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",SuKan Rtm
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TILEMOUSIKI
+http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png",TokuSHOUTsu
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CwWXrE.jpg",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TV ONE
+http://45.126.83.51/qwr9ew/s/s02/index2.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TV5Monde
+http://210.210.155.35/dr9445/s/s24/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TV5MONDE
+http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct7jfe.jpg",TVB Thai
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtkRYf.jpg",tvN
+https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVN
+http://210.210.155.35/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVN Movies
+http://210.210.155.35/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVNASIA
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",TVNMOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",UA
+http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",UA TV
+http://45.126.83.51/qwr9ew/s/s47/index2.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",USA | FIGHT SPORTS
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.imgur.com/VgTQ6W2.png",Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",V Channel
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",V2BEATTV
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CthSNb.jpg",Vevo 90s
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/51f1a0da9da049098a8cec541bddfae5/live.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CthhyR.jpg",Vevo HipHop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/05/C1qn22.jpg",Vevo R&B
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b4556ad764a9eeeff4c4b/live.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/08/CiBuqR.jpg",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Wesaltv
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",WFTV9
+http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",WION
+http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",WION TV
+http://210.210.155.35:80/uq2663/h/h91/S4/mnf.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://imgstatic.vtvcab.vn/logos/WO_M.png",WOMANHD
+https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/womanhd_abr/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://i.imgur.com/awkADAk.jpg",WorldPokerTour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTNP1D.jpg",Xplore
+https://xplore-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",ZEEBIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/02.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CADiKy.jpg",ถิ่นใต้วัวชน
+https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",槌冲嚢棣欐腐
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",鍑ゅ嚢璧勮
+http://117.169.120.138:8080/live/fhzixun/index.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",鍑ゅ嚢鍗涓枃鍙�
+http://117.169.120.138:8080/live/fhchinese/.m3u8
+#EXTINF:-1 group-title="SPL" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",香港开电视
+http://livetv.dnsfor.me/channel.9.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://itsmiyagi.site:443/images/a7f3e0adfc996d4b97c4c3915cfe398c.png",CNN Indonesia
+http://iptv12k.com:35461/SK020233/079097/1815
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png",Indosiar
+http://iptv12k.com:35461/SK020233/079097/1814
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png",Net. TV
+http://iptv12k.com:35461/SK020233/079097/1813
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png",RCTI
+http://iptv12k.com:35461/SK020233/079097/1812
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png",SCTV
+http://iptv12k.com:35461/SK020233/079097/1811
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png",Trans 7
+http://iptv12k.com:35461/SK020233/079097/1810
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png",Trans TV
+http://iptv12k.com:35461/SK020233/079097/1809
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KiX
+http://iptv12k.com:35461/SK020233/079097/1807
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://itsmiyagi.site:443/images/586feed161624ded5f8ae6e09cdd7695.jpeg",ANTV
+http://iptv12k.com:35461/SK020233/079097/1806
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png",TV One
+http://iptv12k.com:35461/SK020233/079097/1805
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png",Metro TV
+http://iptv12k.com:35461/SK020233/079097/1804
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png",Kompas TV
+http://iptv12k.com:35461/SK020233/079097/1803
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png",TVRI
+http://iptv12k.com:35461/SK020233/079097/1802
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://itsmiyagi.site:443/images/23e955c9a8924fe73c35725d28fd37a5.png",Berita Satu
+http://iptv12k.com:35461/SK020233/079097/1801
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/inews-id.png",iNews
+http://iptv12k.com:35461/SK020233/079097/1799
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc-sports-id.png",MNC Sport
+http://iptv12k.com:35461/SK020233/079097/1796
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBe8wanHh_L-O0XxX-rl8D1K5QYpb90dyXA&usqp=CAU",ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="https://2.bp.blogspot.com/-8YE5_WfiuV4/V_24h9yFX9I/AAAAAAAAftQ/5NTAGZzzaRUhGLnfMOHsBCeSLku5jXx_QCLcB/s1600/my-ANAK²-tv-channel-logo.png",My ANAK²
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="http://www.dens.tv/images/channel-logo/116.jpg",Toonz ANAK²
+http://210.210.155.35/x6bnqe/s/s81/01.m3u8?
+#EXTINF:-1 group-title="ANAK²" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png",Toon Max TV
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",3ABN ANAK² TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",3ABN ANAK² TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="https://i.ibb.co/2y38WHL/animaxlogobyvovanloc.png",Animax
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Aniplus
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Animax%20HD.png",Animax HD
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",B ANAK² HD
+http://livestream.biznetvideo.net/biznet_ANAK²/smil:ANAK².smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTINF:-1 group-title="ANAK²" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="https://i.imgur.com/zRnsH85.png",Biznet ANAK²
+http://livestream.biznetvideo.net/biznet_ANAK²/smil:ANAK².smil/chunklist_123_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="ANAK²" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Boomerang
+http://urtv.cc:80/454781209544/431009674535/7199
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png",IN: sony pix HD
+http://iptv12k.com:35461/SK020233/079097/2198
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",SIN-HBO MOVIE
+http://iptv12k.com:35461/SK020233/079097/1893
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",HBO HD MOVIE
+http://iptv12k.com:35461/SK020233/079097/1892
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png",SIN-HBO Hits MOVIE
+http://iptv12k.com:35461/SK020233/079097/1889
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png",SIN-HBO Signature MOVIE
+http://iptv12k.com:35461/SK020233/079097/1887
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png",AXN HD MOVIE
+http://iptv12k.com:35461/SK020233/079097/1884
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",SIN-Cinemax MOVIE
+http://iptv12k.com:35461/SK020233/079097/1883
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://semprullive.wap.sh/Logo/LOGO2.png",Cinemax HD MOVIE
+http://iptv12k.com:35461/SK020233/079097/1882
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://itsmiyagi.site:443/images/d5bd04b0765510168b519198219e154e.png",Cinema World HD MOVIE
+http://iptv12k.com:35461/SK020233/079097/1881
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.loli.net/2021/10/06/chPdwIK7Tm9oWCO.png",SIN-Warner TV MOVIE
+http://iptv12k.com:35461/SK020233/079097/1880
